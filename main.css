@@ -119,7 +119,9 @@ img.profile-pic {
 }
 
 .name-title-company {
-	background-color: #1b4f72;
+	flex: none;
+	width: 100%;
+	background-color: #abb2b9;
 }
 
 .banner {
@@ -162,7 +164,7 @@ img.profile-pic {
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #F2F3F4;
+    color: #17202a;
     font-size: 12px;
 }
 
